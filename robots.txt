@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.tongtaugarden.com/sitemap.xml
+
+# 唐頭園 TongTauGarden
+# 歡迎搜尋引擎索引本網站所有頁面
